@@ -5,9 +5,9 @@
     <AssemblyName>Flow.Launcher.Plugin.FlowLauncherPluginEmailTo</AssemblyName>
     <PackageId>Flow.Launcher.Plugin.FlowLauncherPluginEmailTo</PackageId>
     <Authors>Adam Marciniec</Authors>
-    <PackageProjectUrl>https://github.com/Adam Marciniec/Flow.Launcher.Plugin.FlowLauncherPluginEmailTo</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/Adam Marciniec/Flow.Launcher.Plugin.FlowLauncherPluginEmailTo</RepositoryUrl>
-    <PackageTags>flow-launcher flow-plugin</PackageTags>
+    <PackageProjectUrl>https://github.com/Echostorm44/FlowLauncherPluginEmailTo</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Echostorm44/FlowLauncherPluginEmailTo</RepositoryUrl>
+    <PackageTags>flow-launcher flow-plugin email</PackageTags>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
